@@ -28,7 +28,8 @@
 ```
 
 [발달장애인들에게 모바일인터넷은 어떤 의미인가](http://thespecial.kr/?r=special&c=design&uid=9823)   
-[소외된 이들, 소수장애인](http://www.ntoday.co.kr/news/articleView.html?idxno=81087)
-[손끝으로 느끼는 졸업앨범](http://www.ntoday.co.kr/news/articleView.html?idxno=82617)
+[소외된 이들, 소수장애인](http://www.ntoday.co.kr/news/articleView.html?idxno=81087)   
+[손끝으로 느끼는 졸업앨범](http://www.ntoday.co.kr/news/articleView.html?idxno=82617)   
+[지폐 액면 식별 앱](http://www.kappd.or.kr/kappd/bbs/board.php?bo_table=bo_02&wr_id=3263&sst=wr_hit&sod=desc&sop=and&page=220)
 
 ![image](https://github.com/chihyeonWON/2023_Hackathon/assets/58906858/2db60696-92a5-4547-aa65-5051796035f1)
