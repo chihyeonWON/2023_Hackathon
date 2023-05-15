@@ -27,6 +27,11 @@
 특수학교 학생들의 추억을 앱에 어떤 형태로 남길 수 있을까 
 날씨 알림 어플인데 필요한 날씨에 맞춰서 있으면 좋을 준비물을 음성으로 알려주는 앱
 ```
+[Flutter-ocr](https://github.com/chihyeonWON/Flutter-OCR)
+```
+
+```
+
 
 [발달장애인들에게 모바일인터넷은 어떤 의미인가](http://thespecial.kr/?r=special&c=design&uid=9823)     
 [소외된 이들, 소수장애인](http://www.ntoday.co.kr/news/articleView.html?idxno=81087)       
