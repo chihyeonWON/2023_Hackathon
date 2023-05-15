@@ -33,7 +33,9 @@
 [손끝으로 느끼는 졸업앨범](http://www.ntoday.co.kr/news/articleView.html?idxno=82617)      
 [지폐 액면 식별 앱](http://www.kappd.or.kr/kappd/bbs/board.php?bo_table=bo_02&wr_id=3263&sst=wr_hit&sod=desc&sop=and&page=220)   
 [한국디지털학회 시각장애인을 위한 상황인지 보조 앱](http://journal.dcs.or.kr/_PR/view/?aidx=23191&bidx=1886)   
-[엘비에스테크의 개발 앱](https://m.saramin.co.kr/job-search/view?rec_idx=42084351&cn=job-industry&cns=job-list)   
+[엘비에스테크의 개발 앱](https://m.saramin.co.kr/job-search/view?rec_idx=42084351&cn=job-industry&cns=job-list)
+[시작 장애인을 위한 편의점 음료 인식 어플](https://velog.io/@marlenka/%EC%8B%9C%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8E%B8%EC%9D%98%EC%A0%90-%EC%9D%8C%EB%A3%8C-%EC%9D%B8%EC%8B%9D-%EC%96%B4%ED%94%8C)
 ![image](https://github.com/chihyeonWON/2023_Hackathon/assets/58906858/2db60696-92a5-4547-aa65-5051796035f1)
 ![image](https://github.com/chihyeonWON/2023_Hackathon/assets/58906858/3bd9ee67-1b11-498a-9632-0569c055d4d4)
+
 
