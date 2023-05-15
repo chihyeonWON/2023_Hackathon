@@ -28,8 +28,9 @@
 날씨 알림 어플인데 필요한 날씨에 맞춰서 있으면 좋을 준비물을 음성으로 알려주는 앱
 ```
 [Flutter-ocr](https://github.com/chihyeonWON/Flutter-OCR)
+[Flutter-TTS](https://dev-yakuza.posstree.com/ko/flutter/tts/)
 ```
-
+ocr, tts 를 적절히 섞어서 사용하면 사진에서 문자를 ocr가 추출해내고 추출한 문자를 tts가 읽어준다.
 ```
 
 
