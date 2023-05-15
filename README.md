@@ -29,8 +29,11 @@
 ```
 [Flutter-ocr](https://github.com/chihyeonWON/Flutter-OCR)
 [Flutter-TTS](https://dev-yakuza.posstree.com/ko/flutter/tts/)
+[Flutter-WebRTC](https://gsretail.tistory.com/14)
 ```
 ocr, tts 를 적절히 섞어서 사용하면 사진에서 문자를 ocr가 추출해내고 추출한 문자를 tts가 읽어준다.
+
+읽은 문자를 WebRTC를 사용하여 가상의 현실속에 문자를 표현해낸다
 ```
 
 
