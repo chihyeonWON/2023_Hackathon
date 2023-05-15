@@ -35,3 +35,5 @@
 [한국디지털학회 시각장애인을 위한 상황인지 보조 앱](http://journal.dcs.or.kr/_PR/view/?aidx=23191&bidx=1886)   
 [엘비에스테크의 개발 앱](https://m.saramin.co.kr/job-search/view?rec_idx=42084351&cn=job-industry&cns=job-list)   
 ![image](https://github.com/chihyeonWON/2023_Hackathon/assets/58906858/2db60696-92a5-4547-aa65-5051796035f1)
+![image](https://github.com/chihyeonWON/2023_Hackathon/assets/58906858/3bd9ee67-1b11-498a-9632-0569c055d4d4)
+
