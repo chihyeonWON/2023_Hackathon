@@ -23,8 +23,10 @@
 지도API를 사용한 네비게이션 앱 (휠체어 사용자들을 위한)
 발달 장애인을 위한 의사소통 보조앱
 인지 장애인을 위한 위치 추적앱
-24시간 
+24시간
+특수학교 학생들의 추억을 앱에 어떤 형태로 남길 수 있을까 
 ```
 
-[발달장애인들에게 모바일인터넷은 어떤 의미인가](http://thespecial.kr/?r=special&c=design&uid=9823)
+[발달장애인들에게 모바일인터넷은 어떤 의미인가](http://thespecial.kr/?r=special&c=design&uid=9823)   
 [소외된 이들, 소수장애인](http://www.ntoday.co.kr/news/articleView.html?idxno=81087)
+[손끝으로 느끼는 졸업앨범](http://www.ntoday.co.kr/news/articleView.html?idxno=82617)
