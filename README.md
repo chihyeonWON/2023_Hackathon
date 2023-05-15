@@ -1,3 +1,4 @@
 # 2023_Hackathon
 2023년 장애인 분야 해커톤 대회(장애 플러스 기술)
 [2023년 장애인 분야 해커톤 대회](https://www.campuspick.com/contest/view?id=21875)
+![image](https://github.com/chihyeonWON/2023_Hackathon/assets/58906858/7e5a8452-f28f-4ca6-9d89-097e58f3e33a)
