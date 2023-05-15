@@ -37,10 +37,13 @@ ocr, tts 를 적절히 섞어서 사용하면 사진에서 문자를 ocr가 추�
 ```
 ## ocr 기능 개발
 ![image](https://github.com/chihyeonWON/2023_Hackathon/assets/58906858/db078fdd-a1bd-4541-8d7d-91257da78d4a)
+![image](https://github.com/chihyeonWON/2023_Hackathon/assets/58906858/d8c7ec96-d28c-4acf-9873-fbcb09f28c4d)
 ```
 command 'C:\src\flutter\bin\flutter.bat'' finished with non-zero exit value 1 오류 뜨길래 구글링해서
 flutter pub upgrade --major-versions 명령어로 고치는데 1시간 소요..
-ocr 기능 정상적으로 구현하였다.
+ocr 기능 정상적으로 구현하였다. 
+
+글자인식도가 개판이다..API가 구려서 그런가
 ```
 
 [발달장애인들에게 모바일인터넷은 어떤 의미인가](http://thespecial.kr/?r=special&c=design&uid=9823)     
