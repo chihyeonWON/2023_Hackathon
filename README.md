@@ -12,3 +12,6 @@
 ## 시상 내역 및 문의 사항
 ![image](https://github.com/chihyeonWON/2023_Hackathon/assets/58906858/477c9656-61c1-4308-88ea-3cebe08125ed)
 ![image](https://github.com/chihyeonWON/2023_Hackathon/assets/58906858/7647e40e-aa3c-4c0e-ad6d-3248d93cd264)
+
+## 심사 기준
+![image](https://github.com/chihyeonWON/2023_Hackathon/assets/58906858/e075802a-4aee-4987-89b4-9d2a81f6e631)
