@@ -27,3 +27,4 @@
 ```
 
 [발달장애인들에게 모바일인터넷은 어떤 의미인가](http://thespecial.kr/?r=special&c=design&uid=9823)
+[소외된 이들, 소수장애인](http://www.ntoday.co.kr/news/articleView.html?idxno=81087)
