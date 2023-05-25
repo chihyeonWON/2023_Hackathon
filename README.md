@@ -28,6 +28,7 @@
 날씨 알림 어플인데 필요한 날씨에 맞춰서 있으면 좋을 준비물을 음성으로 알려주는 앱
 대중교통 이용시 편의성을 주는 앱
 전국 역사별 장애인 화장실 위치를 알려주는 앱
+장애인편의시설 현황을 알려주는 앱
 ```
 [Flutter-ocr](https://github.com/chihyeonWON/Flutter-OCR)
 [Flutter-TTS](https://dev-yakuza.posstree.com/ko/flutter/tts/)
@@ -47,6 +48,8 @@ ocr 기능 정상적으로 구현하였다.
 
 글자인식도가 개판이다..API가 구려서 그런가
 ```
+
+[전국 장애인 편의시설 현황 공공데이터API](https://www.data.go.kr/data/15092317/openapi.do)
 
 [전국 역사별 장애인 화장실 공공데이터API]([)](https://www.data.go.kr/data/15041692/openapi.do)
 
